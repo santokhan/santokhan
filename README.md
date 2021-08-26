@@ -4,12 +4,17 @@
 ###### I'am a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub.
 
 ##### Languages:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- jQuery
-- React
+* HTML
+  * JSX
+  * PUG
+* CSS
+    * Bootstrap
+    * SCSS
+    * Tailwind
+* JavaScript
+  * jQuery
+  * React
+  * Scrollreavel
 
 ##### Get In Touch
 ###### Twitter Dribbble Upwork
