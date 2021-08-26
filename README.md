@@ -1,7 +1,7 @@
 ### Hi👋
 ### I'am Santo
 
-###### I'am a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction.
+###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm webscripting expert and coding is my intoxication. I love to code more than content management like WordPress.
 
 ##### Languages:
 * HTML
