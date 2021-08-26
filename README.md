@@ -14,6 +14,10 @@
 ##### Get In Touch
 ###### Twitter Dribbble Upwork
 [Facebook](https://facebook.com/SantoKhan1999) [Fiverr](https://fiverr.com/santokhan494) [Instagram](https://facebook.com/santokhan1999)
+
+| Name | Email | Phone |
+| Santo Khan | santokhan1999@gmail.com | +880171878775 |
+
 <!--
 **santokhan/santokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
