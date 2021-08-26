@@ -6,7 +6,7 @@
 
 ###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm webscripting expert and coding is my intoxication. I love to code more than content management like WordPress.
 
-##### Skills:
+#### Skills:
 
 - HTML
   - JSX
@@ -21,9 +21,7 @@
   - jQuery
   - Scrollreavel
 
-###### Twitter Dribbble Upwork
-
-[Facebook](https://facebook.com/SantoKhan1999) [Fiverr](https://fiverr.com/santokhan494) [Instagram](https://facebook.com/santokhan1999)
+[Facebook](https://facebook.com/SantoKhan1999) [Fiverr](https://fiverr.com/santokhan494) [Instagram](https://facebook.com/santokhan1999) [Dribbble](https://dribbble.com/santokhan) [Twitter](https://twitter.com/santokhan1999) [Instagram](https://facebook.com/santokhan1999)
 
 | Name       | Email                   | Phone         |
 | ---------- | ----------------------- | ------------- |
