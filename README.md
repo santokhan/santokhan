@@ -2,11 +2,11 @@
 
 ### Hi👋
 
-### I'am Santo
+### Welcome to my profile. I hope you saw my name in left.
 
-###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm webscripting expert and coding is my intoxication. I love to code more than content management like WordPress.
+###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm webscripting expert and coding is my intoxication. I love to code more than content management like WordPress. I'm currently working on Fiverr & Upwork.
 
-#### Skills:
+### Development Skills:
 
 - HTML
   - JSX
@@ -20,6 +20,15 @@
   - Vanilla JS
   - jQuery
   - Scrollreavel
+
+### Design Skills:
+
+- Adobe
+  - Illustrator 100%
+  - Photoshop 90%
+  - After Effect 80%
+  - XD 100%
+- Figma 100%
 
 [Facebook](https://facebook.com/SantoKhan1999) [Fiverr](https://fiverr.com/santokhan494) [Instagram](https://facebook.com/santokhan1999) [Dribbble](https://dribbble.com/santokhan) [Twitter](https://twitter.com/santokhan1999) [Instagram](https://facebook.com/santokhan1999)
 
