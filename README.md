@@ -2,6 +2,18 @@
 ### I'am Santo
 
 ###### I'am a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub.
+
+##### Languages:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- jQuery
+- React
+
+##### Get In Touch
+###### Twitter Dribbble Upwork
+[Facebook](https://facebook.com/SantoKhan1999) [Fiverr](https://fiverr.com/santokhan494) [Instagram](https://facebook.com/santokhan1999)
 <!--
 **santokhan/santokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
