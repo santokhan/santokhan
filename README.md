@@ -30,7 +30,7 @@
   - XD `100%`
 - Figma `100%`
 
-[`Facebook`](https://facebook.com/SantoKhan1999) [`Twitter`](https://twitter.com/santokhan1999) [`Instagram`](https://facebook.com/santokhan1999) [`Fiverr`](https://fiverr.com/santokhan494) [`Dribbble`](https://dribbble.com/santokhan)[`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
+[`Facebook`](https://facebook.com/SantoKhan1999) [`Twitter`](https://twitter.com/santokhan1999) [`Instagram`](https://facebook.com/santokhan1999) [`Fiverr`](https://fiverr.com/santokhan494) [`Dribbble`](https://dribbble.com/santokhan) [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
 
 | Name       | Email                   | Phone         |
 | ---------- | ----------------------- | ------------- |
