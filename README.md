@@ -12,14 +12,14 @@
   - JSX
   - PUG
 - CSS
-  - Bootstrap
-  - SCSS
-  - Tailwind
+  - Bootstrap `100%`
+  - SCSS `100%`
+  - Tailwind `90%`
 - JavaScript
-  - React
-  - Vanilla JS
-  - jQuery
-  - Scrollreavel
+  - React `60%`
+  - Vanilla JS `90%`
+  - jQuery `90%`
+  - Scrollreavel `100%`
 
 ### Design Skills:
 
