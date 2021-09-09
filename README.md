@@ -8,7 +8,7 @@
 
 ### Development Skills:
 
-- HTML || JSX || PUG `100%`
+- HTML or JSX or PUG `100%`
 - CSS
   - Bootstrap `100%`
   - SCSS `100%`
