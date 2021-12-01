@@ -8,6 +8,19 @@
 
 ### Development Skills:
 
+| Frontend                 | Backend                  |
+| ------------------------ | ------------------------ |
+| - HTML or JSX or PUG `100%`
+- CSS
+  - Bootstrap `100%`
+  - SCSS `100%`
+  - Tailwind `90%`
+- JavaScript
+  - React `60%`
+  - Vanilla JS `90%`
+  - jQuery `90%`
+  - Scrollreavel `100%`     | santokhan1999@gmail.com  |
+
 - HTML or JSX or PUG `100%`
 - CSS
   - Bootstrap `100%`
