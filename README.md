@@ -1,10 +1,10 @@
 ![Cover Photo](img/Santo-Khan-c.png)
 
-### Hi👋
+### Hey! Nice to see you.😍
 
-### Welcome to my profile. I hope you saw my name in left.
+### Welcome to my profile. I hope you know my name.
 
-###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm webscripting expert and coding is my intoxication. I love to code more than content management like WordPress. I'm currently working on Fiverr & Upwork.
+###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm web scripting expert and coding is my intoxication. I love to code more than content management like WordPress. I'm currently working on Fiverr & Upwork.
 
 ### Development Skills:
 
