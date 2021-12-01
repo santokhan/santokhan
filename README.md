@@ -6,7 +6,7 @@
 
 ###### I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm web scripting expert and coding is my intoxication. I love to code more than content management like WordPress. I'm currently working on Fiverr & Upwork.
 
-### Development Skills:
+<!-- ### Development Skills:
 
 - HTML or JSX or PUG `100%`
 - CSS
@@ -26,7 +26,7 @@
   - Photoshop `90%`
   - After Effect `80%`
   - XD `100%`
-- Figma `100%`
+- Figma `100%` -->
 
 | Frontend   | Skills                                                        |
 | ---------- | ------------------------------------------------------------- |
@@ -44,7 +44,8 @@
 | Social Link | [![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999) | [![Instagram](img/instagram.svg)](https://www.linkedin.com/in/santokhan1999) | [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_) | [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan) |
 | ----------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
 
-|[`Fiverr`](https://fiverr.com/santokhan494) | [`Dribbble`](https://dribbble.com/santokhan) | [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82) |
+| [`Fiverr`](https://fiverr.com/santokhan494) | [`Dribbble`](https://dribbble.com/santokhan) | [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82) |
+| ------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ |
 
 | Name       | Email                   | Phone         |
 | ---------- | ----------------------- | ------------- |
