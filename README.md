@@ -28,13 +28,23 @@
   - XD `100%`
 - Figma `100%`
 
-#### Social Links 
-[![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999) [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_) [![Instagram](img/instagram.svg)](https://www.linkedin.com/in/santokhan1999) [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan)
+| Frontend   | Skills                                                        |
+| ---------- | ------------------------------------------------------------- |
+| HTML       | HTML `100%` XML`100%` PUG`80%` JSX`100%`                      |
+| CSS        | Bootstrap `100%` SCSS `100%` Tailwind `90%`                   |
+| JavaScript | React `60%` Vanilla JS `90%` jQuery `90%` Scrollreavel `100%` |
 
-| Social Link          | [![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999)  | [![Instagram](img/instagram.svg)](https://www.linkedin.com/in/santokhan1999)  | [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_)  | [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan)  |
-|----------------------|---|---|---|---|
+| Backend | Skills        |
+| ------- | ------------- |
+| PHP     | PHP `80%`     |
+| SQL     | MySQL `80%`   |
+| Node JS | Express `60%` |
+| NoSQL   | MongoDB `50%` |
 
-[`Fiverr`](https://fiverr.com/santokhan494) [`Dribbble`](https://dribbble.com/santokhan) [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
+| Social Link | [![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999) | [![Instagram](img/instagram.svg)](https://www.linkedin.com/in/santokhan1999) | [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_) | [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan) |
+| ----------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
+
+|[`Fiverr`](https://fiverr.com/santokhan494) | [`Dribbble`](https://dribbble.com/santokhan) | [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82) |
 
 | Name       | Email                   | Phone         |
 | ---------- | ----------------------- | ------------- |
