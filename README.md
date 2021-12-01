@@ -28,9 +28,9 @@
   - XD `100%`
 - Figma `100%`
 
-[![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999)  [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_)  [![Instagram](img/instagram.svg)](https://instagram.com/santokhan1999)  [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan)
+[![Facebook](img/facebook.svg)](https://facebook.com/SantoKhan1999)  [![Twitter](img/twitter.svg)](https://twitter.com/santokhan_)  [![Instagram](img/instagram.svg)](https://www.linkedin.com/in/santokhan1999)  [![LinkedIn](img/linkedin.svg)](https://facebook.com/santokhan)
 
-[`Facebook`](https://facebook.com/SantoKhan1999) [`Twitter`](https://twitter.com/santokhan_) [`Instagram`](https://instagram.com/santokhan1999) [`Fiverr`](https://fiverr.com/santokhan494) [`Dribbble`](https://dribbble.com/santokhan) [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
+[`Fiverr`](https://fiverr.com/santokhan494) [`Dribbble`](https://dribbble.com/santokhan) [`Upwork`](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
 
 | Name       | Email                   | Phone         |
 | ---------- | ----------------------- | ------------- |
