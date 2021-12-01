@@ -30,10 +30,10 @@
 
 | Frontend   | Skills                                                       |
 | ---------- | ------------------------------------------------------------ |
-| HTML       | HTML`100%`, XML`100%`, PUG`80%`, JSX`100%`                   |
-| CSS        | CSS`100%`, Bootstrap`100%`, SCSS`100%`, Tailwind`90%`        |
-| JavaScript | React`60%`, Vanilla JS`90%`, jQuery`90%`, Scrollreavel`100%` |
-
+| HTML       | HTML `100%`, XML `100%`, PUG `80%`, JSX `100%`                   |
+| CSS        | CSS `100%`, Bootstrap `100%`, SCSS `100%`, Tailwind `90%`        |
+| JavaScript | React `60%`, Vanilla JS `90%`, jQuery `90%`, Scrollreavel `100%` |
+ 
 | Backend | Skills        |
 | ------- | ------------- |
 | PHP     | PHP `80%`     |
