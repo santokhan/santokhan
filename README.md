@@ -57,6 +57,38 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
 <table>
   <thead>
     <tr>
+      <td colspan="5"><strong>Frontend Frameworks</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>React</td>
+      <td>NEXT</td>
+      <td>Vue</td>
+      <td>NUXT</td>
+      <td>Svelte</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="5"><strong>Backend Frameworks</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Express</td>
+      <td>NEXT</td>
+      <td>Lumen</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
       <td colspan="3"><strong>Databases</strong></td>
     </tr>
   </thead>
@@ -65,23 +97,6 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
       <td>MySQL</td>
       <td>MongoDB</td>
       <td>PostgreSQL</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <td colspan="5"><strong>Frameworks</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Vue</td>
-      <td>NUXTJS</td>
-      <td>NEXT JS</td>
-      <td>Svelte</td>
-      <td>TailwindCSS</td>
     </tr>
   </tbody>
 </table>
