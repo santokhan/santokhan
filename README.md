@@ -16,8 +16,8 @@
     <td>
       <table>
         <tr>
-          <td><a href="https://santokhan.github.io">HTML 100%</a></td>
-          <td><a href="https://santokhan.github.io">JSX 100%</a></td>
+          <td>HTML</td>
+          <td>JSX</td>
         </tr>
       </table>
     </td>
@@ -27,11 +27,11 @@
     <td>
       <table>
         <tr>
-          <td><a href="https://santokhan.github.io">CSS 100%</a></td>
-          <td><a href="https://santokhan.github.io">Bootstrap 100%</a></td>
-          <td><a href="https://santokhan.github.io">SCSS 100%</a></td>
-          <td><a href="https://santokhan.github.io">TailwindCSS 100%</a></td>
-          <td><a href="https://santokhan.github.io">Material UI 50%</a></td>
+          <td>CSS</td>
+          <td>Bootstrap</td>
+          <td>SCSS</td>
+          <td>TailwindCSS</td>
+          <td>Material UI</td>
         </tr>
       </table>
     </td>
@@ -41,11 +41,11 @@
     <td>
       <table>
         <tr>
-          <td><a href="https://santokhan.github.io">JavaSript 90%</a></td>
-          <td><a href="https://santokhan.github.io">React 90%</a></td>
-          <td><a href="https://santokhan.github.io">Vue 100%</a></td>
-          <td><a href="https://santokhan.github.io">NEXT JS 80%</a></td>
-          <td><a href="https://santokhan.github.io">NUXT JS 80%</a></td>
+          <td>JavaSript</td>
+          <td>React</td>
+          <td>Vue</td>
+          <td>NEXT JS</td>
+          <td>NUXT JS</td>
         </tr>
       </table>
     </td>
@@ -109,18 +109,4 @@
 </table>
 
 <small>Thank you</small>
-
-<!--
-**santokhan/santokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<small>Santo</small>
