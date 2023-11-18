@@ -52,37 +52,51 @@
   </tr>
 </table>
 
+### Programming Languages
 <table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><b>Skills</b></td>
-  </tr>
-  <tr>
-    <td>PHP</td>
-    <td><a href="https://santokhan.github.io">PHP 80%</a></td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td><a href="https://santokhan.github.io">MySQL 80%</a></td>
-  </tr>
-  <tr>
-    <td>Node JS</td>
-    <td><a href="https://santokhan.github.io">Express 60%</a></td>
-  </tr>
-  <tr>
-    <td>NoSQL</td>
-    <td><a href="https://santokhan.github.io">MongoDB 50%</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>JavaScript</td>
+      <td>Python</td>
+      <td>PHP</td>
+    </tr>
+  </tbody>
+</table>
+
+### Databases
+<table>
+  <tbody>
+    <tr>
+      <td>MySQL</td>
+      <td>MongoDB</td>
+      <td>PostgreSQL</td>
+    </tr>
+  </tbody>
+</table>
+
+### Frameworks
+<table>
+  <tbody>
+    <tr>
+      <td>Vue</td>
+      <td>NUXTJS</td>
+      <td>NEXT JS</td>
+      <td>Svelte</td>
+      <td>TailwindCSS</td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
-  <tr>
-    <td> Social Link </td>
-    <td><a href="https://fiverr.com/santokhan494"><img src="img/facebook.svg" alt="Facebook"></a></td>
-    <td><a href="https://instagram.com/santokhan1999"><img src="img/instagram.svg" alt="Instagram"></a></td>
-    <td><a href="https://instagram.com/santokhan_"><img src="img/twitter.svg" alt="Twitter"></a></td>
-    <td><a href="https://linkedin.com/in/santokhan1999"><img src="img/linkedin.svg" alt="linkedin"></a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td> Social Link</td>
+      <td><a href="https://fiverr.com/santokhan494"><img src="img/facebook.svg" alt="Facebook"></a></td>
+      <td><a href="https://instagram.com/santokhan1999"><img src="img/instagram.svg" alt="Instagram"></a></td>
+      <td><a href="https://instagram.com/santokhan_"><img src="img/twitter.svg" alt="Twitter"></a></td>
+      <td><a href="https://linkedin.com/in/santokhan1999"><img src="img/linkedin.svg" alt="linkedin"></a></td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
