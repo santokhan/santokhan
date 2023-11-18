@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-### Programming Languages
+##### Programming Languages
 <table>
   <tbody>
     <tr>
@@ -63,7 +63,7 @@
   </tbody>
 </table>
 
-### Databases
+##### Databases
 <table>
   <tbody>
     <tr>
