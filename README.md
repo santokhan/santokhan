@@ -52,8 +52,12 @@
   </tr>
 </table>
 
-##### Programming Languages
 <table>
+  <thead>
+    <tr>
+      <td>Programming Languages</td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>JavaScript</td>
