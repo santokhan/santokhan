@@ -17,7 +17,6 @@
       <table>
         <tr>
           <td><a href="https://santokhan.github.io">HTML 100%</a></td>
-          <td><a href="https://santokhan.github.io">XML 100%</a></td>
           <td><a href="https://santokhan.github.io">JSX 100%</a></td>
         </tr>
       </table>
@@ -31,7 +30,8 @@
           <td><a href="https://santokhan.github.io">CSS 100%</a></td>
           <td><a href="https://santokhan.github.io">Bootstrap 100%</a></td>
           <td><a href="https://santokhan.github.io">SCSS 100%</a></td>
-          <td><a href="https://santokhan.github.io">Tailwind 90%</a></td>
+          <td><a href="https://santokhan.github.io">TailwindCSS 100%</a></td>
+          <td><a href="https://santokhan.github.io">Material UI 50%</a></td>
         </tr>
       </table>
     </td>
@@ -41,10 +41,11 @@
     <td>
       <table>
         <tr>
-          <td><a href="https://santokhan.github.io">React 60%</a></td>
-          <td><a href="https://santokhan.github.io">Vanilla JS 90%</a></td>
-          <td><a href="https://santokhan.github.io">jQuery 90%</a></td>
-          <td><a href="https://santokhan.github.io">Scrollreavel 100%</a></td>
+          <td><a href="https://santokhan.github.io">JavaSript 90%</a></td>
+          <td><a href="https://santokhan.github.io">React 90%</a></td>
+          <td><a href="https://santokhan.github.io">Vue 100%</a></td>
+          <td><a href="https://santokhan.github.io">NEXT JS 80%</a></td>
+          <td><a href="https://santokhan.github.io">NUXT JS 80%</a></td>
         </tr>
       </table>
     </td>
