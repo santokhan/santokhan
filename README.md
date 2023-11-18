@@ -55,7 +55,7 @@
 <table>
   <thead>
     <tr>
-      <td colspan="3">Programming Languages</td>
+      <td colspan="3">**Programming Languages**</td>
     </tr>
   </thead>
   <tbody>
