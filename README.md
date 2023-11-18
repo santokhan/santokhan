@@ -24,7 +24,7 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
 <table>
   <thead>
     <tr>
-      <td colspan="3"><strong>CSS Frameworks</strong></td>
+      <td colspan="6"><strong>CSS Frameworks</strong></td>
     </tr>
   </thead>
   <tbody>
