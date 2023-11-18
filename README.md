@@ -72,7 +72,7 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
 <table>
   <thead>
     <tr>
-      <td colspan="3"><strong>Frameworks</strong></td>
+      <td colspan="5"><strong>Frameworks</strong></td>
     </tr>
   </thead>
   <tbody>
