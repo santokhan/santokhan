@@ -67,8 +67,12 @@
   </tbody>
 </table>
 
-##### Databases
 <table>
+  <thead>
+    <tr>
+      <td colspan="3"><strong>Databases</strong></td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>MySQL</td>
