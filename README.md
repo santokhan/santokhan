@@ -112,5 +112,6 @@
   </tr>
 </table>
 
-<small>Thank you</small>
-<small>Santo</small>
+Thank you
+
+Santo
