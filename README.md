@@ -1,55 +1,42 @@
-<img src="img/Santo-Khan-c.png" alt="cover">
+![Cover Image](./assets/images/Santo-Khan-c.png)
 
-<h4>Hey! Nice to see you.😍</h4>
+# Hey! buddy
 
-<p>Welcome to my profile. I hope you know my name.</p>
-<p>I'm a front-end developer experienced in React, Vanilla JavaScript,Bootstrap, CSS, SCSS, HTML and GitHub. I make completely responsive website for client satisfaction. I'm web scripting expert and
-  coding is my intoxication. I love to code more than content management like WordPress. I'm currently working on Fiverr & Upwork.</p>
+Welcome to my profile. I hope you know my name.
+
+I'm a little😎 web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on Fiverr.
 
 <table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><b>Skills</b></td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>
-      <table>
-        <tr>
-          <td>HTML</td>
-          <td>JSX</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>
-      <table>
-        <tr>
-          <td>CSS</td>
-          <td>Bootstrap</td>
-          <td>SCSS</td>
-          <td>TailwindCSS</td>
-          <td>Material UI</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>
-      <table>
-        <tr>
-          <td>JavaSript</td>
-          <td>React</td>
-          <td>Vue</td>
-          <td>NEXT JS</td>
-          <td>NUXT JS</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <td colspan="3"><strong>Markup Languages</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML</td>
+      <td>JSX</td>
+      <td>PUG</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="3"><strong>CSS Frameworks</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bootstrap</td>
+      <td>TailwindCSS ❤</td>
+      <td>MUI</td>
+      <td>Daisy UI</td>
+      <td>Keep React</td>
+      <td>Vuesax</td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
@@ -82,8 +69,12 @@
   </tbody>
 </table>
 
-### Frameworks
 <table>
+  <thead>
+    <tr>
+      <td colspan="3"><strong>Frameworks</strong></td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>Vue</td>
@@ -98,11 +89,11 @@
 <table>
   <tbody>
     <tr>
-      <td> Social Link</td>
-      <td><a href="https://fiverr.com/santokhan494"><img src="img/facebook.svg" alt="Facebook"></a></td>
-      <td><a href="https://instagram.com/santokhan1999"><img src="img/instagram.svg" alt="Instagram"></a></td>
-      <td><a href="https://instagram.com/santokhan_"><img src="img/twitter.svg" alt="Twitter"></a></td>
-      <td><a href="https://linkedin.com/in/santokhan1999"><img src="img/linkedin.svg" alt="linkedin"></a></td>
+      <td>Social Link</td>
+      <td><a href="https://fiverr.com/santokhan494"><img src="./assets/images/facebook.svg" alt="Facebook"></a></td>
+      <td><a href="https://instagram.com/santokhan1999"><img src="./assets/images/instagram.svg" alt="Instagram"></a></td>
+      <td><a href="https://instagram.com/santokhan_"><img src="./assets/images/twitter.svg" alt="Twitter"></a></td>
+      <td><a href="https://linkedin.com/in/santokhan1999"><img src="./assets/images/linkedin.svg" alt="linkedin"></a></td>
     </tr>
   </tbody>
 </table>
