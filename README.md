@@ -1,5 +1,3 @@
-![Cover Image](./assets/images/Santo-Khan-c.png)
-
 # Welcome to my profile
 
 I'm a little😎 web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on Fiverr.
