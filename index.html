@@ -5,16 +5,12 @@
 
 <h3>Skills</h3>
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="3"><strong>Markup Languages</strong></td>
-            <td>
-                <a href="https://www.w3schools.com/html/default.asp" title="html5"><img height="28" src="./assets/icons/lg/html5.svg" alt="html5"></a>
-            </td>
-        </tr>
-    </thead>
-</table>
+<div>
+    <h4>Markup Languages</h4>
+    <div>
+        <a href="https://www.w3schools.com/html/default.asp" title="html5"><img height="28" src="./assets/icons/lg/html5.svg" alt="html5"></a>
+    </div>
+</div>
 
 <table>
     <thead>
