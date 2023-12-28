@@ -135,11 +135,6 @@
                 <a href="#" title="flutter"><img height="28" src="./assets/icons/lg/flutter.svg" alt="flutter"></a>
             </td>
         </tr>
-        <tr>
-            <td>
-                <a href="#" title="npm"><img height="28" src="./assets/icons/lg/npm.svg" alt="npm"></a>
-            </td>
-        </tr>
     </tbody>
 </table>
 
