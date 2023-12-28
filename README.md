@@ -135,6 +135,11 @@
                 <a href="#" title="flutter"><img height="28" src="./assets/icons/lg/flutter.svg" alt="flutter"></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="#" title="npm"><img height="28" src="./assets/icons/lg/npm.svg" alt="npm"></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -142,10 +147,10 @@
     <tr>
         <td> Work Profiles</td>
         <td>
-            <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr"><img height="28" src="./assets/icons/marketplace/fiverr.svg" alt="fiverr"></a>
+            <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr"><img height="28" src="./assets/icons/marketplace/solid/fiverr.svg" alt="fiverr"></a>
         </td>
         <td>
-            <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="upwork"><img height="28" src="./assets/icons/marketplace/upwork.svg" alt="upwork"></a>
+            <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="upwork"><img height="28" src="./assets/icons/marketplace/solid/upwork.svg" alt="upwork"></a>
         </td>
     </tr>
 </table>
@@ -155,16 +160,16 @@
         <tr>
             <td>Social Links</td>
             <td>
-                <a href="https://instagram.com/SantoKhan1999/" title="facebook"><img height="28" src="./assets/icons/social/facebook.svg" alt="facebook"></a>
+                <a href="https://instagram.com/SantoKhan1999/" title="facebook"><img height="24" src="./assets/icons/social/facebook.svg" alt="facebook"></a>
             </td>
             <td>
-                <a href="https://www.linkedin.com/in/santokhan1999/" title="linkedin"><img height="28" src="./assets/icons/social/linkedin.svg" alt="linkedin"></a>
+                <a href="https://www.linkedin.com/in/santokhan1999/" title="linkedin"><img height="24" src="./assets/icons/social/linkedin.svg" alt="linkedin"></a>
             </td>
             <td>
-                <a href="https://join.skype.com/invite/VkXHikszW7Pb" title="skype"><img height="28" src="./assets/icons/social/skype.svg" alt="skype"></a>
+                <a href="https://join.skype.com/invite/VkXHikszW7Pb" title="skype"><img height="24" src="./assets/icons/social/skype.svg" alt="skype"></a>
             </td>
             <td>
-                <a href="https://wa.me/+8801718787756" title="whatsapp"><img height="28" src="./assets/icons/social/whatsapp.svg" alt="whatsapp"></a>
+                <a href="https://wa.me/+8801718787756" title="whatsapp"><img height="24" src="./assets/icons/social/whatsapp.svg" alt="whatsapp"></a>
             </td>
         </tr>
     </tbody>
