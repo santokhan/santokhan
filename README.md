@@ -31,11 +31,7 @@
             <td>
                 <a href="#" title="css"><img height="28" src="./assets/icons/lg/css.svg" alt="css"></a>
                 <a href="#" title="tailwindcss"><img height="28" src="./assets/icons/lg/tailwindcss.svg" alt="tailwindcss"></a>
-                <!-- <a href="#" title="Bootstrap">Bootstrap</a>
-                <a href="#" title="MUI">MUI</a>
-                <a href="#" title="Daisy UI">Daisy UI</a>
-                <a href="#" title="Keep React">Keep React</a>
-                <a href="#" title="Vuesax">Vuesax</a> -->
+                <a href="#" title="bootstrap"><img height="28" src="./assets/icons/transparent/bootstrap.svg" alt="bootstrap"></a>
             </td>
         </tr>
     </tbody>
@@ -156,9 +152,6 @@
         <td>
             <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="upwork"><img height="28" src="./assets/icons/marketplace/upwork.svg" alt="upwork"></a>
         </td>
-        <!-- <td>
-            <a href="https://dribbble.com/santokhan" title="upwork"><img height="28" src="./assets/icons/marketplace/upwork.svg" alt="upwork"></a>
-        </td> -->
     </tr>
 </table>
 
