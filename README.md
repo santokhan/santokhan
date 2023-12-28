@@ -1,7 +1,7 @@
 <h1>Hello👋, my name is Santo.</h1>
 
-<h3>Welcome to my profile. I'm a full-stack web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on
-    [Fiverr](https://www.fiverr.com/web__architect?up_rollout=true).</h3>
+<h3>Welcome to my profile. I'm a full-stack web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on <a
+        href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr">Fiverr</a>.</h3>
 
 <h3>Skills</h3>
 
