@@ -1,6 +1,8 @@
-# Welcome to my profile
+# Hello👋, my name is Santo.
 
-I'm a little😎 web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on Fiverr.
+### Welcome to my profile. I'm a full-stack web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on [Fiverr](https://www.fiverr.com/web__architect?up_rollout=true).
+
+### Skills
 
 <table>
   <thead>
@@ -10,9 +12,7 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
   </thead>
   <tbody>
     <tr>
-      <td>HTML</td>
-      <td>JSX</td>
-      <td>PUG</td>
+      <td>HTML, JSX</td>
     </tr>
   </tbody>
 </table>
@@ -26,7 +26,7 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
   <tbody>
     <tr>
       <td>Bootstrap</td>
-      <td>TailwindCSS ❤</td>
+      <td><a href="https://tailwindcss.com/">TailwindCSS</a></td>
       <td>MUI</td>
       <td>Daisy UI</td>
       <td>Keep React</td>
@@ -112,7 +112,7 @@ I'm a little😎 web application developer. I love to build complex UI. Coding i
 <table>
   <tr>
     <td> Work Profile </td>
-    <td><a href="https://fiverr.com/santokhan494">Fiverr</a></td>
+    <td><a href="https://www.fiverr.com/web__architect?up_rollout=true">Fiverr</a></td>
     <td><a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82">Upwork</a></td>
     <td><a href="https://dribbble.com/santokhan">Dribbble</a></td>
   </tr>
