@@ -119,7 +119,7 @@
                 <a href="#" title="jquery"><img height="28" src="./assets/icons/lg/jquery.svg" alt="jquery"></a>
                 <a href="#" title="react-query"><img height="28" src="./assets/icons/lg/react-query.svg" alt="react-query"></a>
                 <a href="#" title="redux"><img height="28" src="./assets/icons/lg/redux.svg" alt="redux"></a>
-                <a href="#" title="windows-terminal"><img height="28" src="./assets/icons/lg/windows-terminal.svg" alt="windows-terminal"></a>
+                <a href="#" title="terminal"><img height="28" src="./assets/icons/lg/terminal.svg" alt="terminal"></a>
                 <a href="#" title="wordpress"><img height="28" src="./assets/icons/lg/wordpress.svg" alt="wordpress"></a>
                 <a href="#" title="vite"><img height="28" src="./assets/icons/lg/vite.svg" alt="vite"></a>
                 <a href="#" title="prettier"><img height="28" src="./assets/icons/lg/prettier.svg" alt="prettier"></a>
