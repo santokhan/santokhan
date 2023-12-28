@@ -1,12 +1,12 @@
-<!-- <style>
-    a {
+<style>
+    .btn-santo {
         display: inline-block;
-        padding: 0.25rem;
+        padding: 0.5rem;
         background-color: rgba(0, 0, 0, 0.2);
         margin: 0;
         border-radius: 0.25rem;
     }
-</style> -->
+</style>
 
 <h1>Hello👋, my name is Santo.</h1>
 
@@ -113,8 +113,8 @@
     <tbody>
         <tr>
             <td>
-                <a href="#" title="mongodb"><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
-                <a href="#" title="mysql"><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
+                <a href="#" title="mongodb" class="btn-santo"><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
+                <a href="#" title="mysql" class="btn-santo"><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
             </td>
         </tr>
     </tbody>
