@@ -104,6 +104,7 @@
                 <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/postgresql.svg" alt="postgresql"></a>
+                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/redis.svg" alt="redis"></a>
             </td>
         </tr>
     </tbody>
@@ -133,13 +134,13 @@
                 <a href="#" title="d3js"><img height="28" src="./assets/icons/lg/d3js.svg" alt="d3js"></a>
                 <a href="#" title="digitalocean"><img height="28" src="./assets/icons/lg/digitalocean.svg" alt="digitalocean"></a>
                 <a href="#" title="git"><img height="28" src="./assets/icons/lg/git.svg" alt="git"></a>
-                <a href="#" title="github-pages"><img height="28" src="./assets/icons/lg/github-pages.svg" alt="github-pages"></a>
                 <a href="#" title="heroku"><img height="28" src="./assets/icons/lg/heroku.svg" alt="heroku"></a>
-                <a href="#" title="flutter"><img height="28" src="./assets/icons/lg/flutter.svg" alt="flutter"></a>
             </td>
         </tr>
     </tbody>
 </table>
+
+<p>Love to work on <img src="/assets/icons/lg/ubuntu.svg" alt="ubuntu"> based server</p>
 
 <table>
     <tr>
