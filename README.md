@@ -1,8 +1,6 @@
 <h1>Hello👋, I am Santo.</h1>
 
-<p>Fullstack Web Developer</p>
-
-<h3>Welcome to my profile. I'm a full-stack web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on <a
+<h3>Welcome to my profile. I'm a full-stack web application developer. I love building complex applications from scratch. Coding is my intoxication. I'm a good seller on <a
         href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr">Fiverr</a>.</h3>
 
 <h3>Skills</h3>
@@ -101,10 +99,10 @@
     <tbody>
         <tr>
             <td>
-                <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/postgresql.svg" alt="postgresql"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/redis.svg" alt="redis"></a>
+                <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
+                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
             </td>
         </tr>
     </tbody>
@@ -140,7 +138,20 @@
     </tbody>
 </table>
 
-<p>Love to work on <img src="/assets/icons/lg/ubuntu.svg" alt="ubuntu" style="height: 24px;object-fit: contain;"> based server</p>
+<table>
+    <tr>
+        <td>Backend Technologies</td>
+        <td>
+            <img height="28" src="./assets/icons/nginx.svg" alt="nginx">
+        </td>
+        <td>
+            <img height="28" src="./assets/icons/ubuntu.svg" alt="ubuntu">
+        </td>
+        <td>
+            <img height="28" src="./assets/icons/bash.svg" alt="bash">
+        </td>
+    </tr>
+</table>
 
 <table>
     <tr>
