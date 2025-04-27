@@ -49,8 +49,8 @@
         <tr>
             <td>
                 <a href="#" title="javascript"><img height="28" src="./assets/icons/lg/javascript.svg" alt="javascript"></a>
-                <a href="#" title="php"><img height="28" src="./assets/icons/lg/php.svg" alt="php"></a>
                 <a href="#" title="python"><img height="28" src="./assets/icons/lg/python.svg" alt="python"></a>
+                <a href="#" title="php"><img height="28" src="./assets/icons/lg/php.svg" alt="php"></a>
             </td>
         </tr>
     </tbody>
@@ -85,7 +85,7 @@
             <td>
                 <a href="#" title="expressjs"><img height="28" src="./assets/icons/lg/expressjs.svg" alt="expressjs"></a>
                 <a href="#" title="nestjs"><img height="28" src="./assets/icons/lg/nestjs.svg" alt="nestjs"></a>
-                <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/fastapi" alt="fastapi"></a>
+                <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/fastapi.svg" alt="fastapi"></a>
                 <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/laravel.svg" alt="laravel"></a>
             </td>
         </tr>
@@ -103,8 +103,7 @@
             <td>
                 <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
+                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/postgresql.svg" alt="postgresql"></a>
             </td>
         </tr>
     </tbody>
