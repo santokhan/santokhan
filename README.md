@@ -1,4 +1,6 @@
-<h1>Hello👋, my name is Santo.</h1>
+<h1>Hello👋, I am Santo.</h1>
+
+<p>Fullstack Web Developer</p>
 
 <h3>Welcome to my profile. I'm a full-stack web application developer. I love to build complex UI. Coding is my intoxication. I'm a good seller on <a
         href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr">Fiverr</a>.</h3>
@@ -67,7 +69,6 @@
                 <a href="#" title="nextjs"><img height="28" src="./assets/icons/lg/nextjs.svg" alt="nextjs"></a>
                 <a href="#" title="vuejs"><img height="28" src="./assets/icons/lg/vuejs.svg" alt="vuejs"></a>
                 <a href="#" title="nuxt"><img height="28" src="./assets/icons/lg/nuxt.svg" alt="nuxt"></a>
-                <a href="#" title="angular"><img height="28" src="./assets/icons/lg/angular.svg" alt="angular"></a>
             </td>
         </tr>
     </tbody>
@@ -84,6 +85,7 @@
             <td>
                 <a href="#" title="expressjs"><img height="28" src="./assets/icons/lg/expressjs.svg" alt="expressjs"></a>
                 <a href="#" title="nestjs"><img height="28" src="./assets/icons/lg/nestjs.svg" alt="nestjs"></a>
+                <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/fastapi" alt="fastapi"></a>
                 <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/laravel.svg" alt="laravel"></a>
             </td>
         </tr>
@@ -100,6 +102,8 @@
         <tr>
             <td>
                 <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
+                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
+                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
                 <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
             </td>
         </tr>
