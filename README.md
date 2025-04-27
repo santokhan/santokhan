@@ -140,7 +140,7 @@
     </tbody>
 </table>
 
-<p>Love to work on <img src="/assets/icons/lg/ubuntu.svg" alt="ubuntu"> based server</p>
+<p>Love to work on <img src="/assets/icons/lg/ubuntu.svg" alt="ubuntu" style="height: 24px;object-fit: contain;"> based server</p>
 
 <table>
     <tr>
