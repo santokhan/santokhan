@@ -176,9 +176,6 @@
                 <a href="https://www.linkedin.com/in/santokhan1999/" title="linkedin"><img height="24" src="./assets/icons/social/linkedin.svg" alt="linkedin"></a>
             </td>
             <td>
-                <a href="https://join.skype.com/invite/VkXHikszW7Pb" title="skype"><img height="24" src="./assets/icons/social/skype.svg" alt="skype"></a>
-            </td>
-            <td>
                 <a href="https://wa.me/+8801718787756" title="whatsapp"><img height="24" src="./assets/icons/social/whatsapp.svg" alt="whatsapp"></a>
             </td>
         </tr>
