@@ -84,8 +84,7 @@
             <td>
                 <a href="#" title="expressjs"><img height="28" src="./assets/icons/lg/expressjs.svg" alt="expressjs"></a>
                 <a href="#" title="nestjs"><img height="28" src="./assets/icons/lg/nestjs.svg" alt="nestjs"></a>
-                <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/fastapi.svg" alt="fastapi"></a>
-                <a href="#" title="laravel"><img height="28" src="./assets/icons/lg/laravel.svg" alt="laravel"></a>
+                <a href="#" title="fastapi"><img height="28" src="./assets/icons/lg/fastapi.svg" alt="fastapi"></a>
             </td>
         </tr>
     </tbody>
