@@ -1,3 +1,5 @@
+<img src="./cover-image.png" alt="Cover Image" />
+
 <h1>Hello👋, I am Santo.</h1>
 
 <h3>Full Stack Web Developer | Frontend Wizard ⚡️ Backend Architect</h3>
