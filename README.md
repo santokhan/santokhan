@@ -29,164 +29,22 @@
     <li>Chromium browser automation using Playwright and Electron</li>
 </ul>
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="3"><strong>Markup Languages</strong></td>
-        </tr>
-    </thead>
-    <thead>
-        <tr>
-            <td>
-                <a href="https://www.w3schools.com/html/default.asp" title="html5"><img height="28" src="./assets/icons/lg/html5.svg" alt="html5"></a>
-            </td>
-        </tr>
-    </thead>
-</table>
+| Category | Technologies & Skills |
+| --- | --- |
+| Markup | HTML5 |
+| Styling | CSS, Tailwind CSS, Bootstrap |
+| Programming Languages | JavaScript, Python, PHP |
+| Frontend Frameworks | React, Next.js, Vue.js, Nuxt |
+| Backend Frameworks | Express.js, NestJS, FastAPI |
+| Databases | PostgreSQL, Redis, MongoDB, MySQL |
+| Runtime & Package Management | Node.js, npm |
+| Libraries & State Management | jQuery, TanStack Query (React Query), Redux, D3.js |
+| Development Tools | Git, Vite, Prettier, Nodemon, Terminal |
+| Platforms & Infrastructure | WordPress, Docker, Cloudflare, DigitalOcean, Heroku |
+| Server Administration & Deployment | Linux, Ubuntu, Nginx, Bash, systemd service management |
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="6"><strong>CSS</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="css"><img height="28" src="./assets/icons/lg/css.svg" alt="css"></a>
-                <a href="#" title="tailwindcss"><img height="28" src="./assets/icons/lg/tailwindcss.svg" alt="tailwindcss"></a>
-                <a href="#" title="bootstrap"><img height="28" src="./assets/icons/transparent/bootstrap.svg" alt="bootstrap"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<h3>Work Profiles</h3>
 
-<table>
-    <thead>
-        <tr>
-            <td colspan="3"><strong>Programming Languages</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="javascript"><img height="28" src="./assets/icons/lg/javascript.svg" alt="javascript"></a>
-                <a href="#" title="python"><img height="28" src="./assets/icons/lg/python.svg" alt="python"></a>
-                <a href="#" title="php"><img height="28" src="./assets/icons/lg/php.svg" alt="php"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <td colspan="5"><strong>Frontend Frameworks</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="react"><img height="28" src="./assets/icons/lg/react.svg" alt="react"></a>
-                <a href="#" title="nextjs"><img height="28" src="./assets/icons/lg/nextjs.svg" alt="nextjs"></a>
-                <a href="#" title="vuejs"><img height="28" src="./assets/icons/lg/vuejs.svg" alt="vuejs"></a>
-                <a href="#" title="nuxt"><img height="28" src="./assets/icons/lg/nuxt.svg" alt="nuxt"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <td colspan="5"><strong>Backend Frameworks</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="expressjs"><img height="28" src="./assets/icons/lg/expressjs.svg" alt="expressjs"></a>
-                <a href="#" title="nestjs"><img height="28" src="./assets/icons/lg/nestjs.svg" alt="nestjs"></a>
-                <a href="#" title="fastapi"><img height="28" src="./assets/icons/lg/fastapi.svg" alt="fastapi"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <td colspan="3"><strong>Databases</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/postgresql.svg" alt="postgresql"></a>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/redis.svg" alt="redis"></a>
-                <a href="#" title="mongodb" class=""><img height="28" src="./assets/icons/transparent/mongodb.svg" alt="mongodb"></a>
-                <a href="#" title="mysql" class=""><img height="28" src="./assets/icons/transparent/mysql.svg" alt="mysql"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <td colspan="3"><strong>Other Technologies</strong></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="#" title="npm"><img height="28" src="./assets/icons/lg/npm.svg" alt="npm"></a>
-                <a href="#" title="jquery"><img height="28" src="./assets/icons/lg/jquery.svg" alt="jquery"></a>
-                <a href="#" title="react-query"><img height="28" src="./assets/icons/lg/react-query.svg" alt="react-query"></a>
-                <a href="#" title="redux"><img height="28" src="./assets/icons/lg/redux.svg" alt="redux"></a>
-                <a href="#" title="terminal"><img height="28" src="./assets/icons/lg/terminal.svg" alt="terminal"></a>
-                <a href="#" title="wordpress"><img height="28" src="./assets/icons/lg/wordpress.svg" alt="wordpress"></a>
-                <a href="#" title="vite"><img height="28" src="./assets/icons/lg/vite.svg" alt="vite"></a>
-                <a href="#" title="prettier"><img height="28" src="./assets/icons/lg/prettier.svg" alt="prettier"></a>
-                <a href="#" title="nodejs"><img height="28" src="./assets/icons/lg/nodejs.svg" alt="nodejs"></a>
-                <a href="#" title="nodemon"><img height="28" src="./assets/icons/lg/nodemon.svg" alt="nodemon"></a>
-                <a href="#" title="docker"><img height="28" src="./assets/icons/lg/docker.svg" alt="docker"></a>
-                <a href="#" title="cloudflare"><img height="28" src="./assets/icons/lg/cloudflare.svg" alt="cloudflare"></a>
-                <a href="#" title="d3js"><img height="28" src="./assets/icons/lg/d3js.svg" alt="d3js"></a>
-                <a href="#" title="digitalocean"><img height="28" src="./assets/icons/lg/digitalocean.svg" alt="digitalocean"></a>
-                <a href="#" title="git"><img height="28" src="./assets/icons/lg/git.svg" alt="git"></a>
-                <a href="#" title="heroku"><img height="28" src="./assets/icons/lg/heroku.svg" alt="heroku"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <tr>
-        <td>Server Administration &amp; Deployment</td>
-        <td>
-            <img height="28" src="./assets/icons/nginx.svg" alt="nginx">
-        </td>
-        <td>
-            <img height="28" src="./assets/icons/ubuntu.svg" alt="ubuntu">
-        </td>
-        <td>
-            <img height="28" src="./assets/icons/bash.svg" alt="bash">
-        </td>
-        <td>systemd service management</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td> Work Profiles</td>
-        <td>
-            <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr"><img height="28" src="./assets/icons/marketplace/solid/fiverr.svg" alt="fiverr"></a>
-        </td>
-        <td>
-            <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="upwork"><img height="28" src="./assets/icons/marketplace/solid/upwork.svg" alt="upwork"></a>
-        </td>
-    </tr>
-</table>
+[Fiverr](https://www.fiverr.com/web__architect?up_rollout=true) &middot; [Upwork](https://www.upwork.com/freelancers/~013de8e004b41e7e82)
 
 <p>Thank you<br>Santo</p>
