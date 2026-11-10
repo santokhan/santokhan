@@ -2,11 +2,13 @@
 
 <h1>I'm Santo.</h1>
 
-<h3>Full Stack Developer | API Development | Browser Extensions &amp; Automation</h3>
+<h3>Full Stack Developer | AI Integration &amp; Automation | API &amp; Browser Extension Development</h3>
 
 <p>I build web applications, backend APIs, and browser extensions, with extensive experience in API development using FastAPI, Express.js, and NestJS, backed by PostgreSQL and MySQL.</p>
 
 <p>My work includes JWT-based authentication and Google OAuth integrations for Google Sign-In and email access. I also specialize in browser extension development and Chromium browser automation using Playwright and Electron.</p>
+
+<p>I integrate AI capabilities into applications, implement retrieval-augmented generation (RAG), and develop messaging automation for Messenger, WhatsApp, and Telegram.</p>
 
 <p>I deploy and maintain applications on Linux and Ubuntu servers, configure Nginx web servers and reverse proxies, and manage application services with systemd. My infrastructure toolkit also includes Bash scripting, Docker, Cloudflare, and DigitalOcean.</p>
 
@@ -14,7 +16,18 @@
 
 <p>Explore my services on <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="Fiverr">Fiverr</a> and <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="Upwork">Upwork</a>.</p>
 
+<p><strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/santokhan1999/">LinkedIn</a> &middot; <a href="https://instagram.com/SantoKhan1999/">Instagram</a> &middot; <a href="https://wa.me/8801718787756">WhatsApp</a></p>
+
 <h3>Skills</h3>
+
+<h4>AI Integration &amp; Automation</h4>
+
+<ul>
+    <li>AI integration into applications and workflows</li>
+    <li>Retrieval-augmented generation (RAG)</li>
+    <li>Messaging automation for Messenger, WhatsApp, and Telegram</li>
+    <li>Chromium browser automation using Playwright and Electron</li>
+</ul>
 
 <table>
     <thead>
@@ -174,23 +187,6 @@
             <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="upwork"><img height="28" src="./assets/icons/marketplace/solid/upwork.svg" alt="upwork"></a>
         </td>
     </tr>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td>Social Links</td>
-            <td>
-                <a href="https://instagram.com/SantoKhan1999/" title="facebook"><img height="24" src="./assets/icons/social/facebook.svg" alt="facebook"></a>
-            </td>
-            <td>
-                <a href="https://www.linkedin.com/in/santokhan1999/" title="linkedin"><img height="24" src="./assets/icons/social/linkedin.svg" alt="linkedin"></a>
-            </td>
-            <td>
-                <a href="https://wa.me/+8801718787756" title="whatsapp"><img height="24" src="./assets/icons/social/whatsapp.svg" alt="whatsapp"></a>
-            </td>
-        </tr>
-    </tbody>
 </table>
 
 <p>Thank you<br>Santo</p>
