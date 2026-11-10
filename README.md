@@ -1,10 +1,18 @@
 <img src="./cover-image.png" alt="Cover Image" />
 
-<h1>Hello👋, I am Santo.</h1>
+<h1>I'm Santo.</h1>
 
-<h3>Full Stack Web Developer | Frontend Wizard ⚡️ Backend Architect</h3>
-<h3>Crafting seamless web experiences from database to browser..</h3>
-<h3>I'm a good seller on <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="fiverr">Fiverr</a>.</h3>
+<h3>Full Stack Developer | API Development | Browser Extensions &amp; Automation</h3>
+
+<p>I build web applications, backend APIs, and browser extensions, with extensive experience in API development using FastAPI, Express.js, and NestJS, backed by PostgreSQL and MySQL.</p>
+
+<p>My work includes JWT-based authentication and Google OAuth integrations for Google Sign-In and email access. I also specialize in browser extension development and Chromium browser automation using Playwright and Electron.</p>
+
+<p>I deploy and maintain applications on Linux and Ubuntu servers, configure Nginx web servers and reverse proxies, and manage application services with systemd. My infrastructure toolkit also includes Bash scripting, Docker, Cloudflare, and DigitalOcean.</p>
+
+<p>I created <strong>Inply</strong>, a browser extension for EGP form filling, as part of my product portfolio.</p>
+
+<p>Explore my services on <a href="https://www.fiverr.com/web__architect?up_rollout=true" title="Fiverr">Fiverr</a> and <a href="https://www.upwork.com/freelancers/~013de8e004b41e7e82" title="Upwork">Upwork</a>.</p>
 
 <h3>Skills</h3>
 
@@ -142,7 +150,7 @@
 
 <table>
     <tr>
-        <td>Backend Technologies</td>
+        <td>Server Administration &amp; Deployment</td>
         <td>
             <img height="28" src="./assets/icons/nginx.svg" alt="nginx">
         </td>
@@ -152,6 +160,7 @@
         <td>
             <img height="28" src="./assets/icons/bash.svg" alt="bash">
         </td>
+        <td>systemd service management</td>
     </tr>
 </table>
 
